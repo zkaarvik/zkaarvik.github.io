@@ -1,4 +1,4 @@
-# zkaarvik.github.io
+# zach.kaarvik.com
 
 ## Project setup
 ```
